@@ -10,6 +10,12 @@
         },
         "location": {
             "value": "eastus"
+        },
+        "administratorLogin": {
+            "value": "odl_user_1660140@azurehol1155.onmicrosoft.com"
+        },
+        "administratorLoginPassword": {
+            "value": "qrjd23GUS*Lz"
         }
     }
 }
